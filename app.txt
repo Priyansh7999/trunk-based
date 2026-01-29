@@ -1,1 +1,2 @@
 Hello, this is the main application file.
+Feature message added using trunk-based development.
