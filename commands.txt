@@ -2,3 +2,15 @@ Branch: main
 
 git init
 git status
+
+Branch: main
+
+git init
+git add .
+git commit -m "Initial project setup for trunk-based development"
+
+Branch: feature/add-message
+
+git checkout -b feature/add-message
+git add app.txt
+git commit -m "Add feature message"
